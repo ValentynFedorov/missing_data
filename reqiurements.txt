@@ -2,3 +2,5 @@
 pandas
 polars
 pip>=24.3.1
+scikit-learn
+xgboost
